@@ -32,3 +32,6 @@ mapbox的使用还是简单的，入门应该比较快，就是你试试和react
 ## 2023.6.26
 1. 已经将github与本地文件链接起来，可以在本地直接commit，仍需研究git剩余基本知识（下载了github desktop）
 2. 学习并完成井字棋项目，并上传至github，名字为tic-tac-toe(showing the past moves)
+## 2023.6.27
+1. 上午继续学习react用法
+2. 
