@@ -32,4 +32,4 @@ https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你�
 2. 学习并完成井字棋项目，并上传至github，名字为tic-tac-toe(showing the past moves)
 ## 2023.6.27
 1. 上午继续学习react用法
-2. 
+2. 开始学习mapbox，看示例，看地图
