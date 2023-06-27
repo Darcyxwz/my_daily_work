@@ -8,23 +8,18 @@ https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你�
 1. react学习：https://react.dev/learn
 2. 状态库valtio学习：https://valtio.pmnd.rs/
 
-周计划
-1. 本周内，在github建立仓库，用于提交日常练习代码
-2. 学习react，并能依据文档，独立完成文档demo
-3. 学习总结，建议用md文件，汇报自己学习到的知识点
-
 小肖，https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你熟悉git的基本操作
 
-第一周任务：
+第一周任务（已完成）：
 1. 本周内，在github建立仓库，用于提交日常练习代码
 2. 学习react，并能依据文档，独立完成文档demo
 3. 学习总结，建议用md文件，汇报自己学习到的知识点
 
-后续学习计划：
+后续学习计划（*）：
 1. 学习mapbox
 2. 学习hook的使用（可以找找博客，掘金，思否等网站都有）
 学习目标：
-1. 新建一个react项目
+1. 新建一个react项目（已完成）
 2. 在项目中添加地图
 3.在成功添加地图后，参考mapbox的example，成功添加图层
 
