@@ -16,14 +16,12 @@ https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你�
 3. 学习总结，建议用md文件，汇报自己学习到的知识点
 
 后续学习计划（*）：
-1. 学习mapbox
+1. 学习mapbox（mapbox的使用还是简单的，入门应该比较快，就是你试试和react结合起来）
 2. 学习hook的使用（可以找找博客，掘金，思否等网站都有）
 学习目标：
 1. 新建一个react项目（已完成）
 2. 在项目中添加地图
 3.在成功添加地图后，参考mapbox的example，成功添加图层
-
-mapbox的使用还是简单的，入门应该比较快，就是你试试和react结合起来
 
 ## 2023.6.25
 1. 成功创建了vite+react+ts的项目，并且跑起来
