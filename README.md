@@ -23,6 +23,8 @@ https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你�
 2. 在项目中添加地图
 3.在成功添加地图后，参考mapbox的example，成功添加图层
 
+可以自己动手写下demo，有个库react-mapgl，https://visgl.github.io/react-map-gl/
+
 ## 2023.6.25
 1. 成功创建了vite+react+ts的项目，并且跑起来
 2. 学习了部分git基本操作，预计本周之内学完，本次上传的文件不全，只是复制上去了，我还没有把github与本地文件链接起来，回家研究一波，应当可以解决
