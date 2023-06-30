@@ -40,4 +40,9 @@ https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你�
 2. 上午看了少量mapbox
 ## 2023.6.29
 1. 整理昨天to-do-list知识点
-2. 
+2. 研究mapbox基本用法
+## 2023.6.30
+1. 将mapbox从html形式转化为react形式
+2. 上传了搭建简单resium文件的代码，初始位置定位为武汉地面
+3. 用mapbox将武汉用多边形包围起来
+## 2023.7.3
