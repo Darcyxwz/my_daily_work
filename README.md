@@ -5,12 +5,11 @@ My works are in other repositories. You can look into the dates when I update co
 ## plans
 创建一个vite+react+ts模板文件：https://vitejs.cn/vite3-cn/guide/#trying-vite-online，按流程操作
 
-https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你熟悉git的基本操作
+熟悉git的基本操作：https://learngitbranching.js.org/?locale=zh_CN
+
 先熟悉下react基础语法和使用：
 1. react学习：https://react.dev/learn
 2. 状态库valtio学习：https://valtio.pmnd.rs/
-
-小肖，https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你熟悉git的基本操作
 
 第一周任务（已完成）：
 1. 本周内，在github建立仓库，用于提交日常练习代码
@@ -22,10 +21,10 @@ https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你�
 2. 学习hook的使用（可以找找博客，掘金，思否等网站都有）
 学习目标：
 1. 新建一个react项目（已完成）
-2. 在项目中添加地图
+2. 在项目中添加地图（已完成）
 3.在成功添加地图后，参考mapbox的example，成功添加图层
 
-可以自己动手写下demo，有个库react-mapgl，https://visgl.github.io/react-map-gl/
+（*）可以自己动手写下demo，有个库react-mapgl，https://visgl.github.io/react-map-gl/
 
 ## 2023.6.25
 1. 成功创建了vite+react+ts的项目，并且跑起来
