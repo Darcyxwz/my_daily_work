@@ -3,6 +3,8 @@ This repository is about what I do every day.
 I'll also write about what I learn in my daily life in this md file.
 My works are in other repositories. You can look into the dates when I update codes for those repositories.
 ## plans
+创建一个vite+react+ts模板文件：https://vitejs.cn/vite3-cn/guide/#trying-vite-online，按流程操作
+
 https://learngitbranching.js.org/?locale=zh_CN，这个网站可以用来让你熟悉git的基本操作
 先熟悉下react基础语法和使用：
 1. react学习：https://react.dev/learn
