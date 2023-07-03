@@ -7,6 +7,8 @@ My works are in other repositories. You can look into the dates when I update co
 
 熟悉git的基本操作：https://learngitbranching.js.org/?locale=zh_CN
 
+mapbox配置：https://visgl.github.io/react-map-gl/docs/get-started
+
 先熟悉下react基础语法和使用：
 1. react学习：https://react.dev/learn
 2. 状态库valtio学习：https://valtio.pmnd.rs/
