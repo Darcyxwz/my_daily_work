@@ -7,7 +7,7 @@ My works are in other repositories. You can look into the dates when I update co
 
 熟悉git的基本操作：https://learngitbranching.js.org/?locale=zh_CN
 
-mapbox配置：https://visgl.github.io/react-map-gl/docs/get-started
+mapbox配置：first, create a vite directory. Second, https://visgl.github.io/react-map-gl/docs/get-started. Third, "./App.css": delete the #root part (show the whole view)
 
 先熟悉下react基础语法和使用：
 1. react学习：https://react.dev/learn
