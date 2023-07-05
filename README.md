@@ -3,7 +3,7 @@ This repository is about what I do every day.
 I'll also write about what I learn in my daily life in this md file.
 My works are in other repositories. You can look into the dates when I update codes for those repositories.
 ## plans
-由于github仓库不能储存node_modules文件，但是在package.json文件中仍会显示相关依赖的内容，所以在下载github文件至本地之后，直接执行pnpm install (npm install)，即可自动把要下载的依赖包补全！
+由于github仓库不能储存node_modules文件，但是在package.json文件中仍会显示相关依赖的内容，所以在下载github文件至本地之后，直接执行pnpm install (npm install)，即可自动把要下载的依赖包补全。但是其中有一部分不能用这个指令下载补全，要从package.json中寻找下载指令。
 
 创建一个vite+react+ts模板文件：https://vitejs.cn/vite3-cn/guide/#trying-vite-online，按流程操作
 
