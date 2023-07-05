@@ -48,4 +48,28 @@ mapbox配置：first, create a vite directory. Second, https://visgl.github.io/r
 1. 将mapbox从html形式转化为react形式
 2. 上传了搭建简单resium文件的代码，初始位置定位为武汉地面
 3. 用mapbox将武汉用多边形包围起来
-## 2023.7.3
+## 2023.7.5
+1. js方面：react+ts
+css库：unocss/tailwindcss
+构建工具：vite
+状态库：valtio
+额外补充：rxjs
+项目必备：mapbox(https://docs.mapbox.com/mapbox-gl-js/guides/)
+2. 有个中文网站：https://www.naivemap.com/mapbox-gl-js-cookbook/starter/
+3. 补充下：
+  css动画库:Framer Motion（https://framer.com/projects/?reason=web-login&id=fbf3acc9-5de5-4859-a7d5-93be0294279d）
+  hook库: ahooks
+4. 先克隆代码
+5. 项目克隆之后
+包管理器是pnpm
+不要用其他的包管理器安装
+6. 我们的技术栈是 vite + react + react-router + mapbox + deck.gl + typescript
+状态管理叫 valtio
+请求库有两个 react-query   @ngify/http
+时间库 date-fns
+辅助库 lodash-es  ahooks
+写样式 unocss sass
+主流的我们基本都在用, 而且版本还很新
+先把东西都装起来
+pnpm north-dev  能跑起来就是都装好了
+之后我们再谈其他的
