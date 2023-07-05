@@ -75,3 +75,20 @@ css库：unocss/tailwindcss
 先把东西都装起来
 pnpm north-dev  能跑起来就是都装好了
 之后我们再谈其他的
+
+tailwindcss 三道例题：
+https://tailwindcomponents.com/component/statics-viewer
+
+https://tailwindcomponents.com/component/dishant-singh-6
+
+https://tailwindcomponents.com/component/storage-card-horizon-ui-tailwind
+
+tailwindcss 笔记：
+https://tailwindcomponents.com/cheatsheet/
+
+1. https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter
+2. https://tailwindcss.com/docs/guides/vite
+3. https://unocss.dev/integrations/vite
+4. 各种页面常见布局：https://sweet-kk.github.io/css-layout/#/?id=%e5%90%84%e7%a7%8d%e9%a1%b5%e9%9d%a2%e5%b8%b8%e8%a7%81%e5%b8%83%e5%b1%80%e7%9f%a5%e5%90%8d%e7%bd%91%e7%ab%99%e5%ae%9e%e4%be%8b%e5%88%86%e6%9e%90%e7%9b%b8%e5%85%b3%e9%98%85%e8%af%bb%e6%8e%a8%e8%8d%90
+
+
