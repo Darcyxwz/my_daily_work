@@ -85,7 +85,11 @@ https://tailwindcomponents.com/component/dishant-singh-6
 https://tailwindcomponents.com/component/storage-card-horizon-ui-tailwind
 
 tailwindcss 笔记：
-https://tailwindcomponents.com/cheatsheet/
+1. https://tailwindcss.com/docs/aspect-ratio
+2. https://tailwindcomponents.com/cheatsheet
+
+UnoCSS 笔记：
+https://unocss.dev/interactive/
 
 1. https://developer.mozilla.org/zh-CN/docs/Web/CSS/backdrop-filter
 2. https://tailwindcss.com/docs/guides/vite
