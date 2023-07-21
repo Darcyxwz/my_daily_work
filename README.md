@@ -102,5 +102,6 @@ https://unocss.dev/interactive/
 有不会的位置
 看这个网站, 现代布局的坑基本全都涵盖了
 https://sweet-kk.github.io/css-layout/#/?id=%e5%90%84%e7%a7%8d%e9%a1%b5%e9%9d%a2%e5%b8%b8%e8%a7%81%e5%b8%83%e5%b1%80%e7%9f%a5%e5%90%8d%e7%bd%91%e7%ab%99%e5%ae%9e%e4%be%8b%e5%88%86%e6%9e%90%e7%9b%b8%e5%85%b3%e9%98%85%e8%af%bb%e6%8e%a8%e8%8d%90
-2. https://github.com/bradtraversy/50projects50days这个回去看
+2. https://github.com/bradtraversy/50projects50days
+这个回去看
 
