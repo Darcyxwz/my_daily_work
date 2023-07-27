@@ -105,3 +105,15 @@ https://sweet-kk.github.io/css-layout/#/?id=%e5%90%84%e7%a7%8d%e9%a1%b5%e9%9d%a2
 2. https://github.com/bradtraversy/50projects50days
 这个回去看
 
+## 2023.7.27
+【使用HTML和CSS创建霓虹灯按钮悬停动画效果 | 源码下载】 https://www.bilibili.com/video/BV1zR4y1h7Xq/?share_source=copy_web&vd_source=12cf81bfefc09138078bf7a58e9c6425
+【[CSS]这是你要的高级感吗-视觉差名片】 https://www.bilibili.com/video/BV1Mf4y1x7DK/?share_source=copy_web&vd_source=12cf81bfefc09138078bf7a58e9c6425
+【百叶窗经典特效（css+html）】 https://www.bilibili.com/video/BV1eb4y1q7ZB/?share_source=copy_web&vd_source=12cf81bfefc09138078bf7a58e9c6425
+
+几个比较经典的动效, 工作中也很常用, 可以收藏看看实现, 跟着练习
+
+下周就不做css这块了，你们觉得css薄弱的要午休和下班了多学多看。
+
+下周我在网上找一些 react 的简单的组件，让你们学习原理，如果学得快的话，8月中旬的时候让你们参与到正式开发中，一开始先抽离组件给你们写，后面再教你们写复杂的逻辑，把组件拼接成应用。
+
+
