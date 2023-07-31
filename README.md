@@ -116,4 +116,18 @@ https://sweet-kk.github.io/css-layout/#/?id=%e5%90%84%e7%a7%8d%e9%a1%b5%e9%9d%a2
 
 下周我在网上找一些 react 的简单的组件，让你们学习原理，如果学得快的话，8月中旬的时候让你们参与到正式开发中，一开始先抽离组件给你们写，后面再教你们写复杂的逻辑，把组件拼接成应用。
 
+## 2023.7.31
+不懂的APi看这个网站,有教程，教程看不懂就问我
+https://zh-hans.react.dev/
+https://react.dev/
+一个中文一个英文
 
+这是进阶的资料
+https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/
+react核心开发者的博客，有中文，这一篇要多看几遍
+
+https://www.developerway.com/
+其他react原理的进阶
+
+https://www.patterns.dev/
+前端的设计模式
