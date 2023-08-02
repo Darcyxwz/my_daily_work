@@ -135,4 +135,4 @@ https://www.patterns.dev/
 ## 2023.8.2
 ```import { MapStyleSwitcherV2 } from "uikit";```
 
-一般来说，index文件是默认的后缀，这里uikit是一个包，但是引用需要到一个具体的文件，所以这里的全称是"uikit/index.tsx"
+一般来说，index文件是默认的后缀，会自动寻找含有"index"的文件；这里uikit是一个包，但是引用需要到一个具体的文件，所以这里的全称是"uikit/index.tsx"
