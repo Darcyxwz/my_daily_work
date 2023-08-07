@@ -148,3 +148,12 @@ git reset --hard origin/main强制用本地origin/main替换本分支
 4. git rebase origin/main
 5. 处理merge矛盾点
 6. git rebase --continue
+
+## 2023.8.7
+fetch origin rebase origin/main后执行下面的语句
+
+rm -rf .git/refs/original/
+git reflog expire --expire=now --all
+git gc --prune=now
+
+不要再把大文件推到git中
