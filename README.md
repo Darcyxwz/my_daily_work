@@ -144,4 +144,5 @@ https://www.patterns.dev/
 2. 进行代码的更改
 3. 执行commit操作，记录这次代码的更改
 4. git rebase origin/main
-5. 
+5. 处理merge矛盾点
+6. git rebase --continue
