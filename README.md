@@ -138,6 +138,8 @@ https://www.patterns.dev/
 一般来说，index文件是默认的后缀，会自动寻找含有"index"的文件；这里uikit是一个包，但是引用需要到一个具体的文件，所以这里的全称是"uikit/index.tsx"
 
 ## 2023.8.4
+git reset --hard origin/main强制用本地origin/main替换本分支
+
 不要在main分支上执行代码的更改，尤其不要执行push操作，这样会直接改变origin/main！
 所以，以下是正常的流程：
 1. git branch -b branch-name
