@@ -157,3 +157,6 @@ git reflog expire --expire=now --all
 git gc --prune=now
 
 不要再把大文件推到git中
+
+我拉一个分支叫 wenbao
+文保相关的推送就从这个分支拉。然后发pr到wenbao
