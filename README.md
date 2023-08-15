@@ -163,3 +163,41 @@ git gc --prune=now
 
 https://github.com/react-component
 按顺序看这几个，[footer](https://github.com/react-component/footer) [portal](https://github.com/react-component/portal) [drawer](https://github.com/react-component/drawer) [dialog](https://github.com/react-component/dialog)
+
+## 2023.8.15
+今天学会了useMemo(()=>{}, []);这是一个只与依赖项关联起来的函数，只有当依赖项改变才会计算结果，且以依赖项作为参数。
+```js
+const calcLeft = useMemo(() => {
+    let totalLeft = 0;
+
+    for (let i = 0; i < activeIndex; i++) {
+      totalLeft += 48;
+      totalLeft += labels[i].length * 16;
+    }
+
+    return totalLeft;
+  }, [activeIndex]);
+```
+
+以下包含了多项知识点：map(), onClick,  clsx()特殊用法
+```
+{labels.map((label, index) => (
+          <div key={index} onClick={() => setActiveIndex(index)} className={clsx("flex justify-center items-center h-36 text-16 font-500 cursor-pointer", activeIndex === index ? "text-[#0064C8]" : "text-[#303030]")}
+          style={{
+            width: label.length * 16 + 48,
+          }}>{label}</div>
+        ))}
+```
+
+以下是onClick常规用法：
+```js
+function handleClick(event) {
+  // 获取被点击的 div 元素的内容
+  const clickedContent = event.target.textContent;
+  console.log("点击的内容：", clickedContent);
+  // 在这里你可以对 clickedContent 做你想要的操作
+}
+
+onClick={(event)=>handleClick(event)}
+```
+
