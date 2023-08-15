@@ -201,3 +201,9 @@ function handleClick(event) {
 onClick={(event)=>handleClick(event)}
 ```
 
+如果handle函数没有参数：
+```js
+onClick={handleClick}
+```
+没有'()'就不会执行！
+
