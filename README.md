@@ -210,3 +210,7 @@ onClick={handleClick}
 ## 2023.8.16
 将本地分支与远程分支连接起来：git branch -u origin/ep
 
+git remote prune origin
+
+
+
