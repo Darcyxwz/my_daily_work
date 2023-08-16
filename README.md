@@ -214,5 +214,6 @@ git remote prune origin
 
 pnpm add -g git-cz
 
+symphony\apps\electric-pile\tsconfig.json 在这里有路径规范
 
 
