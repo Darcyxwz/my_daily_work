@@ -212,5 +212,7 @@ onClick={handleClick}
 
 git remote prune origin
 
+pnpm add -g git-cz
+
 
 
