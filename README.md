@@ -210,10 +210,14 @@ onClick={handleClick}
 ## 2023.8.16
 将本地分支与远程分支连接起来：git branch -u origin/ep
 
-git remote prune origin
+git remote prune origin 清除已经被销毁的远程分支
+
+git commit -m "content" -n 不执行代码格式的更改，直接提交
 
 pnpm add -g git-cz
 
 symphony\apps\electric-pile\tsconfig.json 在这里有路径规范
+
+
 
 
