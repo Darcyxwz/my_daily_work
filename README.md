@@ -218,6 +218,12 @@ pnpm add -g git-cz
 
 symphony\apps\electric-pile\tsconfig.json 在这里有路径规范
 
+## 2023.8.17
+如何让一个小div在一个大div中水平居中？
+
+回答：将小div放在另一个div中：<div className="flex justify-center"> <div id="小div" /> </div>，因为flex的div会自动撑满他的两边（定高不定宽的话），可以方便居中。
+文字居中的处理：<div className="flex1 text-center/text-start/text-end">content</div>，flex-1的对象也会自动两边撑满！
+
 
 
 
