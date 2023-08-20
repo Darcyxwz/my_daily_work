@@ -233,6 +233,22 @@ https://www.maliquankai.com/2019/05/17/2019-05-17-small-program-design/
 
 做小程序设计，不得不说的7个坑：https://www.uisdc.com/7-traps-in-mini-program-design
 
+## 2023.8.20
+git分支命名规范：
+feature-xxx-开发者名字（可姓名首字母简写）（功能开发分支，以自己开发功能模块命名，功能测试正常后提交远程pr，原则上一个分支尽量开发一个功能模块。不要多个功能模块在一个分支上开发）
+feature-xxx-fix-开发者名字（同上）（功能bug修复分支，feature分支合并之后发现bug，在合并后的分支（如main或develop）上创建分支进行修复，之后rebase无冲突后合并回相应分支）
+【补充：feature分支在申请合并之后，未合并之前还是可以提交代码的，所以feature在合并之前还可以在原分支上继续修复bug，此时不用新建分支】
+bugfix-xxx-开发者名字（同上）（bug修改分支，在main或develop分支上创建，修复完成后合并到main或develop）
+
+【注意：分支改动完，提交前都要确认是否有冲突，冲突是否解决完】
+
+每个git commit记录都需要按照固定格式，具体格式为：
+
+第一行：作者，功能模块名称或者 功能模块ID
+第二行：提交描述。中英文均可
+
+## 2023.8.21
+
 
 
 
