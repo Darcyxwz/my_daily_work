@@ -248,11 +248,15 @@ bugfix-xxx-开发者名字（同上）（bug修改分支，在main或develop分�
 第二行：提交描述。中英文均可
 
 ## 2023.10.8
-1.登录的原理
+1. 登录的原理
+
 2. Form的概念不清晰, 不局限于 ant design, 对 html5 的表单似懂非懂
+
 3. 路由系统掌握的不够深刻
-3. devtools 网络面板不会用
-4. procomponents https://procomponents.ant.design/components/modal-form
+
+4. devtools 网络面板不会用
+
+5. procomponents https://procomponents.ant.design/components/modal-form
 
 
 
